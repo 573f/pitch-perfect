@@ -118,10 +118,7 @@ class PlaySoundViewController: UIViewController {
     
     
     @IBAction func stopPlaying(sender: UIButton) {
-        if audioPlayer.playing {
-            audioPlayer.stop()
-            audioPlayer.currentTime = 0
-        }
+        stopPlayerAndEngine()
     }
     
 }

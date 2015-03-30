@@ -107,7 +107,7 @@
                                 </variation>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Qcm-4y-qYm" userLabel="EchoView">
-                                <rect key="frame" x="300" y="328.5" width="284" height="129"/>
+                                <rect key="frame" x="300" y="329" width="284" height="129"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RPf-rt-2ng" userLabel="EchoButton">
                                         <rect key="frame" x="102" y="24" width="80" height="80"/>
@@ -126,7 +126,7 @@
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="d9K-eP-9H7" userLabel="ReverbView">
-                                <rect key="frame" x="16" y="328.5" width="284" height="129"/>
+                                <rect key="frame" x="16" y="329" width="284" height="129"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lpu-iE-ifu" userLabel="ReverbButton">
                                         <rect key="frame" x="102" y="25" width="80" height="80"/>
@@ -145,7 +145,7 @@
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KMq-IO-vVJ" userLabel="SnailView">
-                                <rect key="frame" x="16" y="72" width="284" height="128.5"/>
+                                <rect key="frame" x="16" y="72" width="284" height="129"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Tg-cU-oZV" userLabel="SnailButton">
                                         <rect key="frame" x="92" y="14" width="100" height="100"/>
@@ -164,10 +164,10 @@
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="a2c-OJ-A0n" userLabel="RabbitView">
-                                <rect key="frame" x="300" y="72" width="284" height="128.5"/>
+                                <rect key="frame" x="300" y="72" width="284" height="129"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MJc-Kz-pXY" userLabel="RabbitButton">
-                                        <rect key="frame" x="92.5" y="14.5" width="100" height="100"/>
+                                        <rect key="frame" x="92" y="15" width="100" height="100"/>
                                         <state key="normal" image="fastButton">
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
@@ -183,7 +183,7 @@
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Z4j-Dm-cyf" userLabel="SquirrelView">
-                                <rect key="frame" x="16" y="199.5" width="284" height="129"/>
+                                <rect key="frame" x="16" y="200" width="284" height="129"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PCv-0D-mWD" userLabel="SquirrelButton">
                                         <rect key="frame" x="92" y="15" width="100" height="100"/>
@@ -202,7 +202,7 @@
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="9oX-yM-mCK" userLabel="VaderView">
-                                <rect key="frame" x="300" y="199.5" width="284" height="129"/>
+                                <rect key="frame" x="300" y="200" width="284" height="129"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XQm-91-nQt" userLabel="VaderButton">
                                         <rect key="frame" x="92" y="14" width="100" height="100"/>
